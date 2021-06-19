@@ -1,6 +1,6 @@
 ## Hey! I'm Bruno Ferreira :wave:
 
-### A software developer who loves to study design patterns, best practices, trends, and new technologies.
+#### A software developer who loves to study design patterns, best practices, trends, and new technologies.
 
 [![](https://img.shields.io/badge/-LinkedIn-373e47?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erisbruno/?locale=en_US)](https://www.linkedin.com/in/erisbruno/?locale=en_US)
 [![](https://img.shields.io/badge/-Gmail-373e47?style=flat-square&logo=gmail&logoColor=white&link=mailto:brunoeriss@gmail.com)](mailto:brunoeriss@gmail.com)
