@@ -1,4 +1,4 @@
-## Hey! I'm Bruno Ferreira :wave:
+## Hey! I'm Bruno Eris :wave:
 
 #### A software developer who loves to study design patterns, best practices, trends, and new technologies.
 
